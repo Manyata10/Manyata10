@@ -6,14 +6,13 @@
 
 👩‍💻 About Me
 
-I'm a Computer Science Engineering student passionate about building practical software solutions and exploring the intersection of Web Development, AI, and problem solving.
-
-🎓 Computer Science Engineering student
-💻 Interested in Full-Stack Development
-🤖 Exploring AI/ML and AI-powered applications
-🧩 Practicing Data Structures & Algorithms
-🚀 Building projects with the MERN stack
-📚 Always learning and improving my technical skills
-💡 I enjoy turning ideas into working applications
-
+I'm a Computer Science Engineering student passionate about building practical software solutions and exploring the intersection of Web Development, AI, and problem solving.  
+🎓 Computer Science Engineering student  
+💻 Interested in Full-Stack Development  
+🤖 Exploring AI/ML and AI-powered applications    
+🧩 Practicing Data Structures & Algorithms  
+🚀 Building projects with the MERN stack  
+📚 Always learning and improving my technical skills  
+💡 I enjoy turning ideas into working applications  
+    
 "Build. Learn. Improve. Repeat."
